@@ -9,18 +9,9 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 <div align="center">
 <a name="table"></a><h2>Contents:</h2>
 
-[Plugins](#Assets) | [Tools](#Tools) | [Learn](#Learn)
+| [Plugins](#Assets) | [Tools](#Tools) | [Learn](#Learn) |
 
 </div>
-
-<details><summary><b>Show Detailed Table:</b></summary>
-- [Plugins](#Plugins)
-- [Add-ons](#Add-ons)
-- [Add-ons](#Add-ons)
-</details>
-<br>
-
----
 
 ## Plugins
 
@@ -34,8 +25,6 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [V-Ray](https://www.chaosgroup.com/vray/houdini)
 - Renderman
 - [Arnold](https://www.arnoldrenderer.com/arnold/arnold-for-houdini/)
-
----
 
 ## Tools
 
@@ -52,8 +41,6 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - lightning https://gumroad.com/l/ofsD
 - ice https://gumroad.com/l/icetool
 - https://www.orbolt.com/search/?q=tags:effect Orbolt, is aplace where you find some free resources, which includes free digital assets or effects
-
----
 
 ## Learn
 
@@ -122,18 +109,14 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 
 - [HOULY Daily Challenge](https://www.sidefx.com/community/houly-daily-challenge/) - SideFX is proud to announce the HOULY Daily Challenge where Houdini artists can compete for cool prizes by creating a new image or animation everyday during the month of July. [ig/#houly2020](https://www.instagram.com/explore/tags/houly2020/), [tw/#houly2020](https://twitter.com/hashtag/houly2020).
 
-## Other Useful Lists
+### Other Useful Lists
 
 - awes
 
----
-
-### Symbols [^](#table)
+### Symbols
 
 > _`(p)`_ paid.
 
----
-
-### Contributing [^](#table)
+### Contributing
 
 Your contributions are always welcome!
