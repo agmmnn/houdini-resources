@@ -19,13 +19,6 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [Houdini Engine for Blender](https://github.com/eliemichel/HoudiniEngineForBlender) - Branch of Blender featuring a Houdini Engine based modifier.
 - [Houdini Music Toolset](https://github.com/andrew-lowell/HMT) - makes use of Houdini's powerful geometry and simulation processing in a set of new tools and workflows specifically designed for music.
 
-## Render Engines
-
-- Redshift
-- [V-Ray](https://www.chaosgroup.com/vray/houdini)
-- Renderman
-- [Arnold](https://www.arnoldrenderer.com/arnold/arnold-for-houdini/)
-
 ## Tools
 
 - [MOPs](https://github.com/toadstorm/MOPS) - Motion OPerators for Houdini, a motion graphics toolkit.
@@ -42,6 +35,22 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - ice https://gumroad.com/l/icetool
 - https://www.orbolt.com/search/?q=tags:effect Orbolt, is aplace where you find some free resources, which includes free digital assets or effects
 
+## Render Engines
+
+- [Redshift](https://www.maxon.net/en/redshift/integrations?categories=631821)
+- [3Delight](https://www.3delight.com/)
+- [V-Ray](https://www.chaosgroup.com/vray/houdini)
+- [OctaneRender](https://home.otoy.com/render/octane-render/)
+- [Renderman](https://rmanwiki.pixar.com/display/RFH24)
+- [Arnold](https://www.arnoldrenderer.com/arnold/arnold-for-houdini/)
+- [\*](https://www.youtube.com/watch?v=SYz3Pz0m2XM&t=2255s) [Cycles X](https://www.blender.org/)
+
+## Useful
+
+- [Houdini Blueprints](https://www.hdbp.io/) - Browse, collect, share Houdini snippets online.
+- [kristianjungk/Houdini Tips](https://www.kristianjungk.com/en/about/tipps-tricks/houdini/)
+- [Houdini Hotkey Sheet](https://gumroad.com/l/AoHKBQ) - All shortcuts for Houdini PDF File, in total 53 pages, optimized for printing.
+
 ## Learn
 
 - https://www.sidefx.com/tutorials/houdini-foundations-book/
@@ -53,11 +62,10 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [Applied Houdini](https://www.appliedhoudini.com/) _(p)_
 - [SideFX Digital Learning Material](https://docs.google.com/spreadsheets/d/11FbYBV_OV2INv3LCk38fmcgZbuVrgxYaZK-1KifCpyc/edit#gid=0) - List of Tutorials.
 - [jtomori/VEX Tutorial](https://github.com/jtomori/vex_tutorial) - A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini.
-- [Houdini Hotkey Sheet](https://gumroad.com/l/AoHKBQ) - All shortcuts for Houdini PDF File, in total 53 pages, optimized for printing.
-- [ve](https://github.com/kiryha/Houdini)
+- [Houdini pipeline and learning database](https://github.com/kiryha/Houdini)
 - [Luiz' Big List of Games Tutorials](https://www.sidefx.com/tutorials/luiz-big-list-of-games-tutorials/)
 
-### Forums
+### Community/Social
 
 - [SideFX Forum](https://www.sidefx.com/forum/) - Houdini visual effects forum and community.
 - [Odforce Forum](https://forums.odforce.net/) - Houdini visual effects forum and community.
@@ -65,7 +73,7 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - Discord: [Houdini Academy & Resources](https://discord.com/invite/BkHQHr6), [Think Procedural](https://discord.com/invite/b8U5Hdy)
 - FB Group: [Houdini Artists](https://www.facebook.com/groups/HoudiniArtists/), [Houdini Hangouts](https://www.facebook.com/groups/188610705000234/), [Houdini for Game Dev](https://www.facebook.com/groups/houdiniforgamedev/)
 
-### Youtube [^](#table)
+### Youtube
 
 - [Houdini](https://www.youtube.com/c/houdini3d/videos)
 - [Entagma](https://www.youtube.com/c/Entagma)
@@ -83,7 +91,7 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [pixeltrain](https://www.youtube.com/c/pixeltrain3DVFXTrainings/videos)
 - [timj design](https://www.youtube.com/c/timjdesign/videos)
 
-### Vimeo [^](#table)
+### Vimeo
 
 - [SideFX Houdini](https://vimeo.com/goprocedural/videos)
 - [Peter Quint](https://vimeo.com/user2030228/videos)
@@ -101,17 +109,17 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [Sergen Eren](https://sergeneren.com/category/houdini/)
 - [Adrien Lambert](https://www.artstation.com/adrienlambert/blog)
 - [Rebelway/blog](https://www.rebelway.net/blog)
-- https://flexmonkey.blogspot.com/
-- https://www.sidefx.com/forum/topic/44882/?page=1#post-260321
-- https://procedural-generation.tumblr.com/
+- [FlexmMonkey](https://flexmonkey.blogspot.com/)
+- [Procedural-Generation.tumblr.com](https://procedural-generation.tumblr.com/)
 
-### Events
+### Events/Challanges
 
-- [HOULY Daily Challenge](https://www.sidefx.com/community/houly-daily-challenge/) - SideFX is proud to announce the HOULY Daily Challenge where Houdini artists can compete for cool prizes by creating a new image or animation everyday during the month of July. [ig/#houly2020](https://www.instagram.com/explore/tags/houly2020/), [tw/#houly2020](https://twitter.com/hashtag/houly2020).
+- [Houdini/Contests and Jams](https://www.sidefx.com/community/section/contest/)
 
-### Other Useful Lists
+### Related Lists
 
-- awes
+- [Awesome Blender](https://github.com/agmmnn/awesome-blender) - A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+- [VFX Good Night Reading](https://github.com/jtomori/vfx_good_night_reading) - Curated collection of good reading about VFX and CG.
 
 ### Symbols
 
