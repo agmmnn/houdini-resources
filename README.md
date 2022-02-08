@@ -1,4 +1,4 @@
-[![img](imgs/sp.jpg "Houdini Resources")](#table)
+[![img](https://random-repo-img.herokuapp.com/agmmnn/houdini-resources/imgs "Houdini Resources")](#table)
 
 <div align="center">
 <p>
