@@ -8,9 +8,7 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 
 <div align="center">
 <a name="table"></a><h2>Contents:</h2>
-
-| [Plugins](#Assets) | [Tools](#Tools) | [Learn](#Learn) |
-
+<p>| <a href="#Assets">Plugins</a> | <a href="#Tools">Tools</a> | <a href="#Learn">Learn</a> |</p>
 </div>
 
 ## Plugins
@@ -43,19 +41,23 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [OctaneRender](https://home.otoy.com/render/octane-render/)
 - [Renderman](https://rmanwiki.pixar.com/display/RFH24)
 - [Arnold](https://www.arnoldrenderer.com/arnold/arnold-for-houdini/)
-- [\*](https://www.youtube.com/watch?v=SYz3Pz0m2XM&t=2255s) [Cycles X](https://www.blender.org/)
+- [\*](https://www.youtube.com/watch?v=SYz3Pz0m2XM&t=2255s) [Cycles](https://www.blender.org/)
 
 ## Useful
 
 - [Houdini Blueprints](https://www.hdbp.io/) - Browse, collect, share Houdini snippets online.
 - [kristianjungk/Houdini Tips](https://www.kristianjungk.com/en/about/tipps-tricks/houdini/)
 - [Houdini Hotkey Sheet](https://gumroad.com/l/AoHKBQ) - All shortcuts for Houdini PDF File, in total 53 pages, optimized for printing.
+- https://shortcutworld.com/Houdini
 
 ## Learn
 
+- https://www.sidefx.com/docs/houdini/index.html
 - https://www.sidefx.com/tutorials/houdini-foundations-book/
 - [cgwiki/Houdini](https://www.tokeru.com/cgwiki/?title=Houdini)
 - [SideFX/learn](https://www.sidefx.com/learn/)
+- [SideFX Snacks V2 | Mojito Magic](https://www.youtube.com/playlist?list=PLXNFA1EysfYnrIjLbkUj4x6iPv3qm6jLQ)
+- [Complete A-Z Terrain Handbook](https://www.youtube.com/playlist?list=PLXNFA1EysfYmi-MJs3VOsozBr9LI299R1)
 - [Entagma.com](https://entagma.com/)
 - [Rebelway.net](https://www.rebelway.net/learn) _(p)_
 - [CGCircuit](https://www.cgcircuit.com/) _(p)_
