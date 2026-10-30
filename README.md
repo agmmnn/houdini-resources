@@ -113,6 +113,7 @@ List of <b>Houdini</b> plugins, assets, tools, tutorials. Focused <i>mostly</i> 
 - [Rebelway/blog](https://www.rebelway.net/blog)
 - [FlexmMonkey](https://flexmonkey.blogspot.com/)
 - [Procedural-Generation.tumblr.com](https://procedural-generation.tumblr.com/)
+- [Digital Garden by Alicia](https://digitalgarden.si/blog/houdini-gltf-threejs-optimization/) - A measured Houdini-to-glTF workflow covering plant asset detail, compression and instancing in Three.js, with test conditions and limitations.
 
 ### Events/Challanges
 
